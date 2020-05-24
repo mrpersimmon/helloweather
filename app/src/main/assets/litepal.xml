@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value="hello_weather_3"/>
+
+    <version value ="1" />
+
+    <list>
+        <mapping class = "com.helloweather.android.db.Province"/>
+        <mapping class = "com.helloweather.android.db.City"/>
+        <mapping class = "com.helloweather.android.db.County"/>
+    </list>
+</litepal>
